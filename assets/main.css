@@ -1,0 +1,424 @@
+*{padding: 0%;
+margin: 0%; outline: 0ch; text-decoration: none; list-style: none; }
+
+
+
+.logo{
+
+    position: absolute;
+    width: 127.72px;
+    height: 42.67px;
+    left: 96px;
+    top: 26.33px;
+}
+    
+
+    
+
+
+.hero{
+    width: 1248px;
+    height: 538.19px;
+    margin-top: 80px;
+    border-radius: 42px 42px 0px 0px;
+    margin-left: 96px;
+}
+    
+
+
+    
+
+
+
+.breeds{
+    position: absolute;
+    width: 1248px;
+    height: 686.4px;
+    left: 96px;
+    top: 584.97px;
+    background: #E3E1DC;
+    border-radius: 0px 0px 42px 42px;
+}
+
+
+    
+
+.logo_banner{
+    position: absolute;
+    width: 207px;
+    height: 87px;
+    left: 204px;
+    top: 214.55px;
+    filter: grayscale(100);
+    filter: invert(100%);
+}
+    
+  
+   
+
+
+    
+
+
+.flexsearch--input{
+position: absolute;
+width: 394.62px;
+height: 69.67px;
+left: 204px;
+top: 423.03px;
+background: #FFFFFF;
+border-radius: 59px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+
+
+
+
+
+
+
+.lupa{
+position: absolute;
+height: 17.05812644958496px;
+width: 17.048126220703125px;
+left: 2.999267578125px;
+top: 2.9993896484375px;
+border-radius: 0px;
+left: 38%;
+right: 30%;
+top: 94%;
+bottom: 16.43%;
+}
+
+
+
+
+
+
+.tittle{
+
+position: absolute;
+width: 371.3px;
+height: 58px;
+left: 204px;
+top: 312.75px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+}
+
+
+.cats_pics {
+
+    display: flex;
+    justify-content: space-around;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #291507;
+    margin-top: 250px;
+   
+
+
+   
+    
+
+    
+    
+
+
+
+}
+
+.cats_pics li img {
+  
+    object-fit: cover;
+    box-sizing: content-box;
+    width: 220px;
+    height: 220px;
+    border-radius: 24px;
+    margin-bottom: 20px;
+
+}
+
+   
+
+
+
+
+
+
+
+.searched{
+
+position: absolute;
+width: 205px;
+height: 22px;
+left: 120px;
+top: 50px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+
+
+
+color: #291507;
+
+
+
+
+
+}
+
+.discover{
+
+position: absolute;
+width: 536.93px;
+height: 118px;
+left: 120px;
+top: 80px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 59px;
+
+color: #291507;
+}
+
+.why_tittle{
+
+
+position: absolute;
+width: 430.02px;
+height: 118px;
+left: 204px;
+top: 1467.78px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 59px;
+
+color: #291507;
+
+
+}
+.why_text{
+    position: absolute;
+width: 447.74px;
+height: 66px;
+left: 204px;
+top: 1629.75px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+
+
+
+
+
+}
+.why_sub{
+
+    position: absolute;
+width: 132.75px;
+height: 22px;
+left: 204px;
+top: 1761.73px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: rgba(41, 21, 7, 0.6);
+
+
+    
+}
+
+
+.kitty_pic{
+
+position: absolute;
+display: flex;
+width: 539px;
+height: 488.88px;
+left: 698px;
+top: 1371.37px;
+
+
+
+
+
+
+}
+
+.sleeping_cat{
+
+    
+
+width: 273.52px;
+height: 167.08px;
+left: 698px;
+top: 1371.37px;
+
+
+
+
+
+
+
+border-radius: 24px;
+
+
+
+}
+
+.paw{
+
+    
+
+
+    width: 195.49px;
+    height: 293.24px;
+    left: 776.03px;
+    top: 1567.02px;
+    margin-left: 80px;
+    margin-top: 20px;
+   
+  
+   
+    
+   
+    
+    border-radius: 24px;
+    }
+
+
+.cat_backpack{
+
+
+    
+display: flexbox;
+justify-content: right;
+
+ 
+
+width: 195.49px;
+height: 293.24px;
+left: 776.03px;
+margin-right: 50px;
+
+
+
+
+
+
+
+
+
+border-radius: 24px;
+
+}
+
+footer{
+
+   display: flex;
+   justify-content: space-between;
+
+position: absolute;
+width: 1248px;
+height: 322.09px;
+left: 96px;
+top: 1961.14px;
+
+background: #000000;
+border-radius: 42px;
+
+
+
+
+
+}
+
+
+
+.logo_footer{
+
+
+    width: 120px;
+    height: 60px;
+    left: 204px;
+    top: 1998.41px;
+  
+    
+
+    margin-top: 20px;
+    
+    margin-left: 80px;
+    filter: grayscale(100);
+    filter: invert(100%);
+    
+  
+
+
+    
+    
+
+    
+
+}
+
+.rights{
+
+
+    width: 399px;
+    height: 22px;
+    left: 912.57px;
+    top: 1998.58px;
+   
+
+margin-top: 25px;
+margin-right: 50px;
+
+
+
+    
+    font-family: Montserrat;
+   
+    
+    
+   
+    
+    color: #FFFFFF;
+
+
+
+}
